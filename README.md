@@ -1,5 +1,14 @@
 # SignalDesk — Your Daily Intelligence Briefing
 
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Platform](https://img.shields.io/badge/Platform-Google%20Apps%20Script-green.svg)
+![Runtime](https://img.shields.io/badge/Runtime-V8-yellow.svg)
+![Cost](https://img.shields.io/badge/Cost-Free%20Tier-brightgreen.svg)
+![Privacy](https://img.shields.io/badge/Gmail-Read--Only%20Only-orange.svg)
+![Gemini](https://img.shields.io/badge/AI-Gemini%20Developer%20API-8A4FFF.svg)
+![Telegram](https://img.shields.io/badge/Delivery-Telegram%20Bot%20API-0088CC.svg)
+![Schedule](https://img.shields.io/badge/Schedule-Dual%20Shift%20%7E7AM%2F9%3A30PM%20IST-purple.svg)
+
 **SignalDesk** is a zero-cost, personal AI-powered newsletter intelligence system that runs **100% on Google Apps Script (V8)** — using the **Gmail API (read-only)**, **Gemini Developer API**, **Google Sheets**, and the **Telegram Bot API**.
 
 No servers, no React/Node backend, no paid hosting, and no inbox clutter. Every morning around **7:00 AM** and every night around **9:30 PM** (`Asia/Kolkata`, configurable), SignalDesk gathers unread editions from your approved newsletter publishers, removes boilerplate and tracking clutter, runs **one structured Gemini API call** to deduplicate, categorize, rank, and summarize the day's developments, verifies every URL against the source emails, and delivers a clean editorial briefing privately to your Telegram chat.
