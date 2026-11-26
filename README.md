@@ -1,7 +1,7 @@
 # SignalDesk — Your Daily Intelligence Briefing
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhiram-tekulapalli/project_readme_assets/main/header.svg" alt="SignalDesk" width="100%" />
+  <img src="assets/readme_assets/header.svg" alt="SignalDesk" width="100%" />
 </p>
 
 <p align="center">
@@ -191,5 +191,5 @@ MIT License — see [LICENSE](LICENSE) for details.
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhiram-tekulapalli/project_readme_assets/main/footer.svg" alt="Footer" width="100%" />
+  <img src="assets/readme_assets/footer.svg" alt="Footer" width="100%" />
 </p>
